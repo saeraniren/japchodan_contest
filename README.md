@@ -1,5 +1,11 @@
-# K-트레킹 코스 유형 분석 및 맞춤 추천 시스템 개발
+<img src="https://honored-nigella-fc0.notion.site/image/attachment%3A626ae7b4-a2ce-4830-ad7c-cf2eb14c820a%3Aimage.png?table=block&id=25ce008e-cc3a-80eb-b4de-e27fdbf8a40f&spaceId=941bde33-6d61-4dec-a0a5-5165a3ad9646&width=2000&userId=&cache=v2">
 
+# 대한민국 대표 국립공원 트레킹 코스 유형 분석을 통한 테마 분류 및 맞춤 추천
+
+- 진행 기간 : 2025년 4월 3일 ~ 2025년 5월 9일
+- 장려상 수상
+- [PPT 바로가기](https://www.canva.com/design/DAGug-int3o/_AJWuv3lwwM0MXDt0C-10Q/view?utm_content=DAGug-int3o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a7b6c2826)
+  
 ## 프로젝트 배경
 
 코로나 이후 야외활동 수요 증가에 따라 트레킹은 지속가능한 문화관광으로 주목받고 있다. 분 프로젝트는 국립공원 트레킹 코스를 정량적으로 분석해 이용자 맞춤형 추천 시스템을 구축함으로써 문화산업 활성화를 목표로 한다. 이러한 공공 데이터 기반 문화관광 서비스를 통해 K-트레킹 콘텐츠의 전략적 확장 가능성을 제안한다.
